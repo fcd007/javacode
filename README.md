@@ -2,8 +2,7 @@
 
 ## Descrição do projeto
 
-Projeto Gestão de vendas de itens cosméticos/perfumes, a ideia é ajudar a adicionar os pedidos a cada ciclo ou período, fazer o cadastro de clientes e realizar o pedido, exibindo o custo com ou sem desconto, cada cliente terá sua fatura/pagamento a realizar após lançar os itens e valores no seu nome, vamos de Java no Backend + ReactJS aplicação responsiva SPA, é um aplicativo básico de gerenciamento de clientes, pedidos e custos dos ciclo, cada entidade terá o recurso básico com o CRUD (Create, Read, Update, Delete), itemos adicionar relatório de faturamento total
-para poder ajudar no controle de lucro do vendedor/consultor/representante.
+Projeto Gestão de vendas de itens cosméticos/perfumes, a ideia é ajudar a adicionar os pedidos a cada ciclo ou período, fazer o cadastro de clientes e realizar o pedido, exibindo o custo com ou sem desconto, cada cliente terá sua fatura/pagamento a realizar após lançar os itens e valores no seu nome, vamos de Java no Backend + ReactJS aplicação responsiva SPA, é um aplicativo básico de gerenciamento de clientes, pedidos e custos dos ciclo, cada entidade terá o recurso básico com o CRUD (Create, Read, Update, Delete), iremos adicionar uma parte de relatório de faturamento total para poder ajudar no controle de lucro do vendedor/consultor/representante.
 
 ## Entidades:
 * Clientes;
