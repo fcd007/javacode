@@ -1,4 +1,4 @@
-# Aplicação Web / Cliente/Webservice com Java 11, Spring Boot, Hibernate, Microsoft SQL/Docker, Testes Automatizados, Clean Code
+# Aplicação Web Java 11
 
 ## Descrição do projeto
 
